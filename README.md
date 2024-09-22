@@ -47,15 +47,15 @@
 - 🏆 **Winner at IBM ICE Day (2022)**
 - 🔥 **Runner Up at IILM University Hackathon 2k23**
 - 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2023)**
+- ✌️  **Finalist in Dark Pattern Buster Hackathon organized by Ministry of Consumer Affairs (2024)**
 
-  
-  
+---
 
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manhvi-yadav-079bb81a0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ManhviYadav"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AbhijeetKr09"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
