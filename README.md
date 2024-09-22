@@ -47,6 +47,7 @@
 ### 🏆 Achievements
 
 - 🏆 **Winner at IBM ICE Day (2022)**
+- 🔥 **Runner Up at IILM University Hackathon 2k23**
 - 🥇 **Winner at Design Thinking Competition (2023)**
 - 🏅 **1st Prize at Crevolution Idea Presentation (2023)**
 - 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2023)**
@@ -55,6 +56,8 @@
 - ✌️  **Finalist in Dark Pattern Buster Hackathon organized by Ministry of Consumer Affairs (2024)**
 - 🥈 **Second position in the Visual Vista Showcase competition at the ignite event (2024)**
 - 🥈 **Second position in An Empowering Enterpreneur: Discovering Cutting Edge Tech and AI Competition**
+- 🥇 **Winner at Collage Making Competition Organised by IIC IILM University (2023)**
+
   
   
 
