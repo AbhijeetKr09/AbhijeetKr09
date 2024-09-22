@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Manhvi Yadav</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManhviYadav&label=Profile%20views&color=0e75b6&style=flat" alt="ManhviYadav" />
-  <img src="https://img.shields.io/github/followers/ManhviYadav?label=Follow&style=social" alt="ManhviYadav" />
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetKr09&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet Kumar" />
+  <img src="https://img.shields.io/github/followers/AbhijeetKr09?label=Follow&style=social" alt="Abhijeet Kumar" />
 </p>
 
 ---
@@ -34,12 +34,11 @@
 ### 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ManhviYadav/DeceptiveEye-DPBH-2K23.git"><img src="https://img.shields.io/badge/-🔍%20Deceptive%20Eye%20Extension-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/Deprai-mental-support-bot.git"><img src="https://img.shields.io/badge/-🧠%20Deprai%20Mental%20Health%20Bot-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/Listener-Bot.git"><img src="https://img.shields.io/badge/-🎙%20AI%20Listener%20Bot-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/eZlearn.git"><img src="https://img.shields.io/badge/-📚%20ML%20eZlearn%20Platform-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/Virtual-Board.git"><img src="https://img.shields.io/badge/-✒️%20Virtual%20Board-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/ManhviYadav/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️♂️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/DeceptiveEye-DPBH-2K23.git"><img src="https://img.shields.io/badge/-🔍%20Deceptive%20Eye%20Extension-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/Deprai-mental-support-bot.git"><img src="https://img.shields.io/badge/-🧠%20Deprai%20Mental%20Health%20Bot-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/Listener-Bot.git"><img src="https://img.shields.io/badge/-🎙%20AI%20Listener%20Bot-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/Virtual-Board.git"><img src="https://img.shields.io/badge/-✒️%20Virtual%20Board-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️♂️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -48,15 +47,8 @@
 
 - 🏆 **Winner at IBM ICE Day (2022)**
 - 🔥 **Runner Up at IILM University Hackathon 2k23**
-- 🥇 **Winner at Design Thinking Competition (2023)**
-- 🏅 **1st Prize at Crevolution Idea Presentation (2023)**
 - 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2023)**
-- 🥇 **1st Prize at IILM University Hackathon (2024)**
-- 🥉 **Third position in the quiz competition organised by Ministry of Electronic and Information Technology (2024)**
 - ✌️  **Finalist in Dark Pattern Buster Hackathon organized by Ministry of Consumer Affairs (2024)**
-- 🥈 **Second position in the Visual Vista Showcase competition at the ignite event (2024)**
-- 🥈 **Second position in An Empowering Enterpreneur: Discovering Cutting Edge Tech and AI Competition**
-- 🥇 **Winner at Collage Making Competition Organised by IIC IILM University (2023)**
 
   
   
