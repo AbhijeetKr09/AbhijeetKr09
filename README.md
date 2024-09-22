@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&theme=radical" alt="ManhviYadav" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetKr09&theme=radical" alt="ManhviYadav" />
   <a href="https://github.com/AbhijeetKr09">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhviYadav&layout=donut&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=donut&theme=radical" alt="Top Langs" />
   </a>
 </p>
 
