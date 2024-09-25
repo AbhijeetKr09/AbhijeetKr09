@@ -38,7 +38,7 @@
   <a href="https://github.com/AbhijeetKr09/Deprai-mental-support-bot.git"><img src="https://img.shields.io/badge/-🧠%20Deprai%20Mental%20Health%20Bot-0e75b6?style=for-the-badge" /></a>
   <a href="https://github.com/AbhijeetKr09/Listener-Bot.git"><img src="https://img.shields.io/badge/-🎙%20AI%20Listener%20Bot-0e75b6?style=for-the-badge" /></a>
   <a href="https://github.com/AbhijeetKr09/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/AbhijeetKr09/BlogSpot.git"><img src="https://img.shields.io/badge/-📑%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/AbhijeetKr09/BlogSpot.git"><img src="https://img.shields.io/badge/-📑%20BlogSpot%20Website%20-0e75b6?style=for-the-badge" /></a>
 </p>
 
 ---
