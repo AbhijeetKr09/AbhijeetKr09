@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/github/followers/AbhijeetKr09?label=Follow&style=social" alt="Abhijeet Kumar" />
 </p>
 
-![Banner](https://your-image-link.com/banner.png)
-
 ---
 
 ### ✨ About Me
@@ -73,14 +71,7 @@
 
 ---
 
-### 🚀 Roadmap
-
-- [ ] Enhance the AI-driven mental health chatbot with new features.
-- [ ] Explore and integrate new machine learning models.
-- [ ] Participate in more hackathons and challenges.
-
----
-
 <p align="center">
   “Innovate, learn, and grow every day.”
 </p>
+![Uploading image.png…]()
