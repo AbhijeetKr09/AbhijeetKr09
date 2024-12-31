@@ -73,13 +73,6 @@
 
 ---
 
-### ✨ Testimonials
-
-- "Abhijeet's work on AI projects is truly remarkable!" - [Person A](https://www.linkedin.com/in/person-a)
-- "The mental health chatbot developed by Abhijeet is a game-changer." - [Person B](https://www.linkedin.com/in/person-b)
-
----
-
 ### 🚀 Roadmap
 
 - [ ] Enhance the AI-driven mental health chatbot with new features.
