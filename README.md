@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/followers/AbhijeetKr09?label=Follow&style=social" alt="Abhijeet Kumar" />
 </p>
 
+![Banner](https://your-image-link.com/banner.png)
+
 ---
 
 ### ✨ About Me
@@ -68,6 +70,21 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=donut&theme=radical" alt="Top Langs" />
   </a>
 </p>
+
+---
+
+### ✨ Testimonials
+
+- "Abhijeet's work on AI projects is truly remarkable!" - [Person A](https://www.linkedin.com/in/person-a)
+- "The mental health chatbot developed by Abhijeet is a game-changer." - [Person B](https://www.linkedin.com/in/person-b)
+
+---
+
+### 🚀 Roadmap
+
+- [ ] Enhance the AI-driven mental health chatbot with new features.
+- [ ] Explore and integrate new machine learning models.
+- [ ] Participate in more hackathons and challenges.
 
 ---
 
