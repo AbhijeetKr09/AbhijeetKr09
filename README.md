@@ -74,4 +74,3 @@
 <p align="center">
   “Innovate, learn, and grow every day.”
 </p>
-![Uploading image.png…]()
