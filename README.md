@@ -47,7 +47,7 @@
 
 - 🏆 **Winner at IBM ICE Day (2022)**
 - 🔥 **Runner Up at IILM University Hackathon 2k23**
-- 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2023)**
+- 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2024)**
 - ✌️  **Finalist in Dark Pattern Buster Hackathon organized by Ministry of Consumer Affairs (2024)**
 
 ---
