@@ -58,16 +58,17 @@
   <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AbhijeetKr09"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 ---
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&theme=radical" alt="AbhijeetKr09" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetKr09&theme=radical" alt="AbhijeetKr09" />
-  <a href="https://github.com/AbhijeetKr09">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=donut&theme=radical" alt="Top Langs" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="stats graph"  />
+
+<img src="https://streak-stats.demolab.com?user=AbhijeetKr09&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+</div>
+
 
 ---
 
