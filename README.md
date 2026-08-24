@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build production systems at the intersection of <b>AI, software engineering, and cloud infrastructure</b>.
+  Building production software across <b>AI, backend systems, cloud infrastructure, and full-stack applications</b>.
 </p>
 
 <p align="center">
@@ -22,154 +22,199 @@
 
 ## About
 
-I'm a **Computer Science engineer focused on building real-world software and AI systems**.
+I'm a Computer Science engineer focused on turning ideas into **production-ready software and AI systems**.
 
-My work spans:
+My interests sit at the intersection of:
 
-* **AI / ML** — computer vision, LLM applications, applied ML
-* **Backend Engineering** — APIs, distributed services, databases
-* **Full-Stack Development** — React, Next.js, TypeScript
-* **Cloud & Infrastructure** — AWS, Linux, deployment, monitoring
-* **Systems Design** — architecture, scalability, reliability, automation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy taking a problem from **idea → architecture → implementation → deployment**.
+### AI Engineering
 
-Currently, I'm particularly interested in **AI engineering, backend systems, cloud infrastructure, and production-grade software architecture**.
+* Computer Vision
+* Machine Learning
+* LLM Applications
+* AI Agents & Automation
+* Engineering Intelligence
 
----
+</td>
+<td width="50%" valign="top">
 
-## What I Build
+### Software Engineering
 
-```text
-AI Systems
-├── Computer Vision
-├── LLM Applications
-├── AI Agents & Automation
-└── Engineering Intelligence
+* Full-Stack Applications
+* Backend Systems
+* Cloud Infrastructure
+* Databases & APIs
+* System Architecture
 
-Software Systems
-├── Full-Stack Applications
-├── Backend APIs
-├── Data & Database Systems
-└── Scalable Architectures
+</td>
+</tr>
+</table>
 
-Infrastructure
-├── AWS
-├── Linux
-├── CI/CD
-├── Monitoring
-└── Production Deployment
-```
+I enjoy working across the entire lifecycle:
+
+**Problem → Architecture → Development → Deployment → Optimization**
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,c" />
 </p>
 
-### Frontend & Backend
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
 </p>
 
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgresql,mongodb,redis" />
 </p>
 
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postgresql,mongodb,redis" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 </p>
 
 ---
 
-## Selected Work
+## What I've Built
 
-### AI & Engineering Intelligence
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**RotoAI**
+### Industrial AI
 
-Working on AI systems for industrial engineering and predictive maintenance, combining machine learning with physics-based engineering models.
+Developing AI systems for **predictive maintenance and engineering intelligence**, combining machine learning with physics-based engineering models.
 
-* Predictive maintenance
-* Rotordynamics
-* Digital twins
-* Engineering intelligence
-* Industrial AI
+**Focus**
 
----
+`Predictive Maintenance` · `Digital Twins` · `Rotordynamics` · `Industrial AI`
 
-### Full-Stack Engineering
+</td>
 
-**Avionyz**
+<td width="50%" valign="top">
 
-Built and maintained an aviation media platform, including its web application, CMS, backend services, infrastructure, and AI-powered capabilities.
+### Production Platforms
 
-* Full-stack development
-* React / Next.js
-* Backend APIs
-* AWS infrastructure
-* CMS & content systems
-* AI integrations
+Built and maintained a **production media platform** from the ground up, covering frontend, backend, CMS, AI features, and cloud infrastructure.
 
----
+**Focus**
 
-### Earlier AI Projects
+`Full-Stack` · `AWS` · `APIs` · `CMS` · `AI Integration`
 
-**Deceptive Eye**
+</td>
+</tr>
 
-Computer-vision based system focused on identifying deceptive/dark patterns in digital interfaces.
+<tr>
+<td width="50%" valign="top">
 
-**AI Listener / Mental Support Systems**
+### Computer Vision
 
-Built conversational AI applications exploring natural-language interaction and AI-assisted support systems.
+Built computer-vision systems for object detection and identifying deceptive patterns in digital interfaces.
+
+**Focus**
+
+`Python` · `OpenCV` · `Deep Learning` · `Computer Vision`
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Applications
+
+Built conversational AI applications exploring natural-language interaction, AI-assisted support, and intelligent automation.
+
+**Focus**
+
+`LLMs` · `NLP` · `Conversational AI` · `Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Achievements
 
-* **NASA Pale Blue Dot Visualization Challenge — Honorable Mention (2024)**
-* **Finalist — Dark Pattern Buster Hackathon**, Ministry of Consumer Affairs (2024)
-* **Winner — Hack-Utsav 2K24**
-* **Winner — IBM ICE Day (2022)**
-* **Runner-up — IILM University Hackathon (2023)**
+<table>
+<tr>
+<td align="center">
+  <strong>NASA</strong><br>
+  Pale Blue Dot Visualization Challenge<br>
+  <sub>Honorable Mention · 2024</sub>
+</td>
 
-My NASA project was also featured in a publication by the **U.S. Embassy in India**.
+<td align="center">
+  <strong>Dark Pattern Buster</strong><br>
+  Ministry of Consumer Affairs<br>
+  <sub>Finalist · 2024</sub>
+</td>
+
+<td align="center">
+  <strong>Hack-Utsav</strong><br>
+  IILM University<br>
+  <sub>Winner · 2024</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <strong>IBM ICE Day</strong><br>
+  <sub>Winner · 2022</sub>
+</td>
+
+<td align="center">
+  <strong>IILM Hackathon</strong><br>
+  <sub>Runner-up · 2023</sub>
+</td>
+
+<td align="center">
+  <strong>NASA Feature</strong><br>
+  <sub>Featured by U.S. Embassy in India</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+
+<img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhijeetKr09&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=AbhijeetKr09&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## Connect
+## Currently Exploring
+
+<p align="center">
+  <code>System Design</code>
+  <code>Cloud Infrastructure</code>
+  <code>AI Engineering</code>
+  <code>Backend Architecture</code>
+  <code>Distributed Systems</code>
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AbhijeetKr09">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-  <i>Building systems, learning continuously, and turning ideas into software.</i>
+  <i>Build systems. Understand how they work. Make them better.</i>
 </p>
