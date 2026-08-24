@@ -1,80 +1,175 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi, I'm Abhijeet Kumar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetKr09&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet Kumar" />
-  <img src="https://img.shields.io/github/followers/AbhijeetKr09?label=Follow&style=social" alt="Abhijeet Kumar" />
+  <strong>AI Engineer · Full-Stack Developer · Systems Builder</strong>
+</p>
+
+<p align="center">
+  I build production systems at the intersection of <b>AI, software engineering, and cloud infrastructure</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbhijeetKr09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetKr09&style=flat-square&label=Profile%20Views" />
 </p>
 
 ---
 
-### ✨ About Me
+## About
 
-- 🔭 I’ve worked on **AI-driven projects and mental health chatbots.**
-- 🌱 I’m learning and exploring **AI, machine learning, and cloud technologies.**
-- 💬 Ask me about **Python, Java, Javascript, Machine Learning, and AI development.**
-- ⚡ Fun fact: I participated in **NASA’s Pale Blue Dot: Visualization Challenge** and my work was featured in a magazine by the US Embassy in India.
-- 🔥 Won **Hack-Utsav 2k24** at **IILM University, Greater Noida.**
+I'm a **Computer Science engineer focused on building real-world software and AI systems**.
+
+My work spans:
+
+* **AI / ML** — computer vision, LLM applications, applied ML
+* **Backend Engineering** — APIs, distributed services, databases
+* **Full-Stack Development** — React, Next.js, TypeScript
+* **Cloud & Infrastructure** — AWS, Linux, deployment, monitoring
+* **Systems Design** — architecture, scalability, reliability, automation
+
+I enjoy taking a problem from **idea → architecture → implementation → deployment**.
+
+Currently, I'm particularly interested in **AI engineering, backend systems, cloud infrastructure, and production-grade software architecture**.
 
 ---
 
-### 🛠️ My Tech Stack
+## What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+```text
+AI Systems
+├── Computer Vision
+├── LLM Applications
+├── AI Agents & Automation
+└── Engineering Intelligence
+
+Software Systems
+├── Full-Stack Applications
+├── Backend APIs
+├── Data & Database Systems
+└── Scalable Architectures
+
+Infrastructure
+├── AWS
+├── Linux
+├── CI/CD
+├── Monitoring
+└── Production Deployment
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,c" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postgresql,mongodb,redis" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## Selected Work
+
+### AI & Engineering Intelligence
+
+**RotoAI**
+
+Working on AI systems for industrial engineering and predictive maintenance, combining machine learning with physics-based engineering models.
+
+* Predictive maintenance
+* Rotordynamics
+* Digital twins
+* Engineering intelligence
+* Industrial AI
+
+---
+
+### Full-Stack Engineering
+
+**Avionyz**
+
+Built and maintained an aviation media platform, including its web application, CMS, backend services, infrastructure, and AI-powered capabilities.
+
+* Full-stack development
+* React / Next.js
+* Backend APIs
+* AWS infrastructure
+* CMS & content systems
+* AI integrations
+
+---
+
+### Earlier AI Projects
+
+**Deceptive Eye**
+
+Computer-vision based system focused on identifying deceptive/dark patterns in digital interfaces.
+
+**AI Listener / Mental Support Systems**
+
+Built conversational AI applications exploring natural-language interaction and AI-assisted support systems.
+
+---
+
+## Achievements
+
+* **NASA Pale Blue Dot Visualization Challenge — Honorable Mention (2024)**
+* **Finalist — Dark Pattern Buster Hackathon**, Ministry of Consumer Affairs (2024)
+* **Winner — Hack-Utsav 2K24**
+* **Winner — IBM ICE Day (2022)**
+* **Runner-up — IILM University Hackathon (2023)**
+
+My NASA project was also featured in a publication by the **U.S. Embassy in India**.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/AbhijeetKr09/DeceptiveEye-DPBH-2K23.git"><img src="https://img.shields.io/badge/-🔍%20Deceptive%20Eye%20Extension-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/AbhijeetKr09/Deprai-mental-support-bot.git"><img src="https://img.shields.io/badge/-🧠%20Deprai%20Mental%20Health%20Bot-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/AbhijeetKr09/Listener-Bot.git"><img src="https://img.shields.io/badge/-🎙%20AI%20Listener%20Bot-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/AbhijeetKr09/Object-detection.git"><img src="https://img.shields.io/badge/-🕵️%20Object%20Detection%20-0e75b6?style=for-the-badge" /></a>
-  <a href="https://github.com/AbhijeetKr09/BlogSpot.git"><img src="https://img.shields.io/badge/-📑%20BlogSpot%20Website%20-0e75b6?style=for-the-badge" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKr09&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhijeetKr09&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-### 🏆 Achievements
-
-- 🏆 **Winner at IBM ICE Day (2022)**
-- 🔥 **Runner Up at IILM University Hackathon 2k23**
-- 🌍 **NASA Pale Blue Dot Challenge Honorable Mention (2024)**
-- ✌️  **Finalist in Dark Pattern Buster Hackathon organized by Ministry of Consumer Affairs (2024)**
-
----
-
-### 🌐 Let's Connect!
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AbhijeetKr09"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-7874b926b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbhijeetKr09">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-<div align="center">
-
-<a href="https://github.com/AbhijeetKr09">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhijeetKr09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/AbhijeetKr09">
-  <img height="180" src="https://streak-stats.demolab.com?user=AbhijeetKr09&theme=tokyonight&hide_border=true&background=00000000" />
-</a>
-
-</div>
-
----
-
 <p align="center">
-  “Innovate, learn, and grow every day.”
+  <i>Building systems, learning continuously, and turning ideas into software.</i>
 </p>
