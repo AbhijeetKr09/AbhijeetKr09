@@ -24,65 +24,33 @@
 
 ### Building software where **AI meets engineering.**
 
-Production experience across **AI/ML, full-stack development, cloud infrastructure, and applied engineering systems**.
+I'm an **AI-ML Engineer and Full-Stack Developer** building production systems across AI/ML, backend engineering, cloud infrastructure, and applied engineering.
 
 </div>
 
 ---
 
-## `> whoami`
+## `> about_me`
 
-I'm an **AI-ML Engineer** focused on building production systems from data acquisition and model development through deployment.
+I'm currently working on **predictive maintenance and digital twin systems**, where I work across sensor data, physics-informed machine learning, model development, MLOps, and application delivery.
 
-My work spans:
+I've also built and operated a **production media platform** end to end, covering frontend, backend, CMS, real-time data systems, AWS infrastructure, and technical SEO.
 
-**AI/ML** · **Backend Systems** · **Full-Stack Development** · **Cloud Infrastructure** · **MLOps**
+Outside of my professional work, I build AI/ML projects around **computer vision, NLP, LLM applications, RAG, sentiment analysis, and intelligent automation**.
 
-I enjoy working across the complete lifecycle:
+I enjoy working across the complete lifecycle of a system:
 
 **Problem → Architecture → Development → Deployment → Optimization**
 
 ---
 
-## `> current_focus`
-
-### AI & Engineering Intelligence
-
-Building predictive maintenance and digital twin systems using **physics-informed machine learning**, sensor data, and production software.
-
-* Physics-informed neural networks
-* Predictive maintenance
-* Digital twins
-* Multi-sensor data acquisition
-* AI-based fault detection
-* MLOps & deployment
-
-### Production Software
-
-Building and operating production-grade applications across frontend, backend, databases, and AWS infrastructure.
-
-* Full-stack architecture
-* Backend APIs
-* Real-time data systems
-* Cloud infrastructure
-* Technical SEO
-* Serverless architecture
-
----
-
-## `> tech_stack`
+## `> what_i_work_with`
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c" />
-
-<br><br>
-
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
 <br>
 
@@ -90,7 +58,7 @@ Building and operating production-grade applications across frontend, backend, d
 
 <br><br>
 
-### Web & Application Development
+### Full-Stack & Application Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,electron" />
 
@@ -114,56 +82,75 @@ Building and operating production-grade applications across frontend, backend, d
 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 
+<br><br>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" />
+
 </div>
 
 ---
 
-## `> selected_work`
+## `> experience`
 
-### Industrial AI
+### AI-ML Engineering
 
-**AI-ML Engineer · RotoAI**
+I'm currently working on **physics-based predictive maintenance and digital twin systems** for aerospace and defense applications.
 
-Building predictive maintenance and digital twin systems for aerospace and defense applications.
+My work includes:
 
-* Own the sensor-to-application pipeline
-* Design and train physics-informed ML models
-* Built a PyQt5 predictive maintenance application
-* Engineered synchronized 4-channel sensor acquisition
-* Reduced system overhead by ~30%
-* Reduced diagnostic turnaround by ~40%
+* Owning the sensor-to-application pipeline
+* Designing and training physics-informed ML models
+* Building predictive maintenance applications with PyQt5
+* Engineering synchronized multi-sensor data acquisition
 * Developing AI-based object and fault detection
+* Working across MLOps and desktop application delivery
+
+I engineered a **4-channel synchronized DAQ system**, using parallel processing and controlled downsampling to reduce system overhead by approximately **30%** and diagnostic turnaround by approximately **40%**.
 
 `Python` `PyTorch` `TensorFlow` `PyQt5` `MERN` `Electron.js`
 
 ---
 
-### Production Media Platform
+### Full-Stack & Cloud Engineering
 
-**Full-Stack & Cloud Engineering**
+I built a **production media platform** end to end, including its main application and custom CMS.
 
-Architected and built a production media platform and custom CMS from the ground up.
+My work included:
 
-* Built the platform end to end
-* Designed a PERN-based backend
-* Implemented serverless services with AWS
-* Built real-time market data dashboards
-* Managed production cloud infrastructure
-* Implemented technical SEO and server-side rendering
+* Designing the platform architecture
+* Building the backend using the PERN stack
+* Implementing serverless services with AWS
+* Building real-time market data dashboards
+* Managing production AWS infrastructure
+* Implementing technical SEO, structured data, and server-side rendering
 
 `PostgreSQL` `Express.js` `React.js` `Node.js` `AWS`
 
 ---
 
+### Earlier AI-ML Engineering
+
+During my earlier work in AI/ML, I converted MATLAB computational pipelines to Python and built an ML anomaly-detection module achieving approximately **97% accuracy** for a digital twin system.
+
+I also refactored **10,000+ lines of code across four applications**, improving modularity and reducing technical debt.
+
+`Python` `PyQt5` `NumPy` `SciPy` `scikit-learn`
+
+---
+
+## `> selected_projects`
+
 ### Lumina
 
 **Reddit-Based Market Sentiment & Intelligence Engine**
 
-Built a sentiment-analysis pipeline over live Reddit data to analyze market reception and user perception.
+I built a sentiment-analysis pipeline over live Reddit data to measure market reception and user perception across product categories.
 
-Designed a custom **SPIT routing algorithm** that reduced LLM API calls to **6% of requests** while maintaining matched accuracy.
+I also designed a **SPIT (Socio-Physical Integrated Thresholding)** routing algorithm that reduced LLM API calls to approximately **6% of requests** while maintaining matched accuracy.
 
-`Python` `NLP` `LLM APIs` `Sentiment Analysis`
+`Python` `NLP` `Sentiment Analysis` `LLM APIs` `Optimization`
 
 ---
 
@@ -171,15 +158,31 @@ Designed a custom **SPIT routing algorithm** that reduced LLM API calls to **6% 
 
 **AI Skill-Building Platform · EY Techathon 5.0**
 
-Built an AI-driven skill platform combining learning resources, job-market data, speech processing, and personalized learning paths.
+I developed an AI-powered skill-building platform that evolved from a roadmap generator into a broader learning and career platform.
 
-* Web and YouTube resource aggregation
+I added:
+
+* Learning-resource aggregation through web scraping
+* YouTube learning resources
 * Job-market analysis
+* In-demand technology discovery
 * Whisper speech-to-text
 * NLP-based quiz generation
-* LLM-driven skill paths
+* LLM-driven personalized skill paths
 
-`MERN` `Python` `LLMs` `Whisper` `NLP`
+`MERN` `Python` `LLM APIs` `Whisper` `NLP` `Web Scraping`
+
+---
+
+### Global Climate Dependency Analysis
+
+**NASA Pale Blue Dot Visualization Challenge · 2024**
+
+I analyzed more than **50 years of climate data across 70 countries**, studying relationships between temperature, CO₂ emissions, and precipitation to investigate global warming drivers.
+
+The project received an **Honorable Mention among 1,000+ global participants**.
+
+`Python` `Pandas` `Matplotlib` `Data Visualization`
 
 ---
 
@@ -187,7 +190,9 @@ Built an AI-driven skill platform combining learning resources, job-market data,
 
 **RAG-Based Travel Itinerary Engine · Hack-Utsav 2024**
 
-Built a RAG pipeline for personalized travel itinerary generation using retrieval optimization and prompt tuning.
+I built a RAG pipeline using LangChain and ChromaDB for personalized travel itinerary generation.
+
+I tuned retrieval logic and prompts to improve relevance and coherence.
 
 `Python` `LangChain` `LLMs` `ChromaDB` `MongoDB`
 
@@ -197,9 +202,9 @@ Built a RAG pipeline for personalized travel itinerary generation using retrieva
 
 **Dark UI Pattern Detector · DPBH 2024**
 
-Built a browser extension using supervised machine learning to detect deceptive UI patterns.
+I built a browser extension that detects deceptive UI patterns using supervised machine learning trained on labeled interface datasets.
 
-**97% classification accuracy** on the test set.
+The model achieved **97% classification accuracy** on the test set.
 
 `JavaScript` `Python` `scikit-learn`
 
@@ -209,23 +214,23 @@ Built a browser extension using supervised machine learning to detect deceptive 
 
 <div align="center">
 
-### 🏆 IBM ICE Day
+### IBM ICE Day
 
 **Winner · 2022 & 2025**
 
-### 🌍 NASA Pale Blue Dot Visualization Challenge
+### NASA Pale Blue Dot Visualization Challenge
 
 **Honorable Mention · 2024**
 
 Recognized among **1,000+ global participants**.
 
-### 🎯 Dark Pattern Buster Hackathon
+### Dark Pattern Buster Hackathon
 
 **Finalist · 2024**
 
 Top **10 among 1,000+ nationwide entries**.
 
-### 🥈 HACK-UTSAV
+### HACK-UTSAV
 
 **1st Runner-Up · 2024**
 
@@ -238,20 +243,8 @@ Top **10 among 1,000+ nationwide entries**.
 <div align="center">
 
 <sub>
-NASA climate visualization work was also featured in a publication by the U.S. Embassy in India.
+My NASA climate visualization work was featured in a publication by the U.S. Embassy in India.
 </sub>
-
-</div>
-
----
-
-## `> certifications`
-
-<div align="center">
-
-**IBM AI Certification** · IBM · 2024
-
-**Google Product Management** · Coursera · 2024
 
 </div>
 
@@ -261,12 +254,34 @@ NASA climate visualization work was also featured in a publication by the U.S. E
 
 <div align="center">
 
-**B.Tech — Computer Science & Engineering**
+### B.Tech — Computer Science & Engineering
 
-IILM University, Greater Noida
-*Specialization in Artificial Intelligence · IBM-ICE collaboration*
+**IILM University, Greater Noida**
+
+Artificial Intelligence specialization
+*In collaboration with IBM-ICE*
 
 **2022 — 2026**
+
+</div>
+
+---
+
+## `> certification`
+
+<div align="center">
+
+### IBM AI Certification
+
+**IBM-ICE Badge · 2024**
+
+Earned as part of my IBM-ICE academic program.
+
+<br>
+
+### Google Product Management
+
+**Coursera · 2024**
 
 </div>
 
@@ -291,7 +306,7 @@ IILM University, Greater Noida
 
 <div align="center">
 
-`System Design`   `Cloud Infrastructure`   `AI Engineering`
+`AI Engineering`   `System Design`   `Cloud Infrastructure`
 
 `Backend Architecture`   `Distributed Systems`   `Production AI`
 
